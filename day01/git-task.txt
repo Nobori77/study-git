@@ -1,0 +1,9 @@
+1. post 브렌치
+   - post.txt 생성
+   - post.txt 안에 게시판 제목 3개 추가
+
+2. reply 브렌치
+   - reply.txt 생성
+   - post.txt 안에 게시판 댓글 3개 추가
+
+3. main 브렌치에 post, reply 반영
