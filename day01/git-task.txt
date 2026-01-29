@@ -4,6 +4,6 @@
 
 2. reply 브렌치
    - reply.txt 생성
-   - post.txt 안에 게시판 댓글 3개 추가
+   - reply.txt 안에 게시판 댓글 3개 추가
 
 3. main 브렌치에 post, reply 반영
